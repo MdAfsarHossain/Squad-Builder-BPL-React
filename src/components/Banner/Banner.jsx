@@ -15,11 +15,12 @@ const Banner = ({ handleAddCoin }) => {
             src="./banner-main.png"
             alt=""
           />
-          <h1 className="font-bold text-3xl lg:text-4xl ">
-            Assemble Your Ultimate Dream 11 Cricket Team
+          <h1 className="font-bold text-xl lg:text-3xl lg:w-[950px]">
+            Build your ultimate BPL squad – select top players, manage your
+            budget, strategize your team, and compete for glory!
           </h1>
-          <p className="mb-5 text-2xl text-gray-400">
-            Beyond Boundaries Beyond Limits
+          <p className="mb-5 text-lg text-gray-400">
+          Pushing Boundaries, Breaking Limits.
           </p>
           <div className="border-2 border-[#E7FE29] p-2 rounded-2xl transition-all">
             <button
