@@ -1,0 +1,151 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/27R81dy/virat-kohli.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 2,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/br0BwFM/Khan-rashid.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 3,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://i.ibb.co.com/NC917Hn/gettyimages-1711629360-612x612.jpg",
+    "role": "Wicketkeeper Batsman",
+    "battingType": "Right-hand bat",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/7byXsFh/Kane-Williamson-in-2019.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/jgRDVZs/BU0q-CR7u9-Q5o-FMBs-SXCf-Rip-TWLzd5t-Xff3i9-Etq-F.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": 6,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/D7F8JNY/DAVID-WARNER-11704782453.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 7,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/MsHGp1x/west-indies-andre-russell-celebrates-taking-the-wicket-of-australias-alex-carey-not-pictured-during.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1750000
+  },
+  {
+    "playerId": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/QCsYmyx/0cbb3600ab7bd79ba167f9a2fa7483d7.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 9,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/HBTqnyf/992436fb37a55c68d6adeba8c0cbb069.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2100000
+  },
+  {
+    "playerId": 10,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/k9rkh13/it-is-jos-buttlers-job-to-make-ben-stokes-available-for-world-cup-ashwin-162917-9x16-0.webp",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 11,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/NCHMYmB/7992d7c9ecf9aaf1e8c353c34b92c41e.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 1450000
+  },
+  {
+    "playerId": 12,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/wBhSXT6/images.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1850000
+  },
+  {
+    "playerId": 13,
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/ScPHJcg/28891-headshot-safari.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1650000
+  },
+  {
+    "playerId": 14,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "image": "https://i.ibb.co.com/9qysLgp/Hardik-Pandya-in-PMO-New-Delhi.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 1950000
+  },
+  {
+    "playerId": 15,
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/dBzqDzW/MV5-BZDIy-Nm-Y5-Nm-Et-Mzgw-ZC00-MGRi-LWE1-ODgt-ZDQ4-NDc4-Nz-Uw-Yj-Q0-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1700000
+  }
+]
